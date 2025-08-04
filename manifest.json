@@ -2,7 +2,7 @@
   "name": "Pink Reader",
   "short_name": "Pink Reader",
   "description": "A beautiful media reader for PDFs, images, and videos with a pink theme",
-  "start_url": "https://rainycotton07.github.io/Pink_Reader_PWA/",
+  "start_url": "https://rainycotton07.github.io/Pink_Reader_PWA/index.html",
   "display": "standalone",
   "background_color": "#FFEAEF",
   "theme_color": "#FF7BAC",
